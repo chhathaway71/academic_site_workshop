@@ -3,10 +3,12 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a Business Analyst II at Blue Cross Blue Shield Nebraska
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Python
+- R
+- PowerBI
+- [GitHub Pages](http://chhathaway71.github.io)
+- Java
