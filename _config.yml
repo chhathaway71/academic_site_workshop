@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Christine Hathaway
-  avatar: bio-photo.jpg
+  avatar: ![selfie](images/bio-photo.jpg)
   bio: "Project Portfolio from Masters in Data Science Program at Bellevue University."
   email: chhathaway@my365.bellevue.edu
   # Do not include the @ symbol in your Twitter username
