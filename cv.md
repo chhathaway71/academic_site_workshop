@@ -3,68 +3,42 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Perform model maintenance for cost accounting
+Support operational areas with reporting
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2018-2020`
+__Belleuvue University_
+Master of Science in Data Science
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2008-2010`
+__University of Upper Iowa__
+Bachelor of Science in Accounting 
 
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`1989-1994`
+__Hamilton Business College__
+Associates of Applied Science in Accounting 
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Business Analyst II__, Blue Cross Blue Shield Nebraska 
 
-- Task
+- Cost Accounting
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`1999-2014`
+__Senior Accountant__, Transamerica Life Insurance Co 
 
-- Task
-- Task
+- Statutory Financial Reporting
+- Operational Accounant
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2020 -->
 
 
